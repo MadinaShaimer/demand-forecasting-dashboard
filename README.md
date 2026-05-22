@@ -95,7 +95,11 @@ Y — объём продаж (quantity)
 
 - ABC-сегментация товаров
 
+  ![Forecast Comparison](screenshots/ma_vs_es.jpg)
+
 - анализ влияния скидок
+
+  ![Regression Analysis](screenshots/regression_analysis.jpg)
 
 **Ключевые выводы**
 
