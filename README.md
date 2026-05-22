@@ -57,15 +57,15 @@ Forecasting models comparison SQL + Power BI
 
 **1. Подготовка данных в SQL**
 
-В SQL были выполнены:
+В SQL были выполнены (код приложен):
 
 - агрегация продаж по периодам
 
-- расчёт Moving Average
+- расчёт Moving Average 
 
-- расчёт Exponential Smoothing
+- расчёт Exponential Smoothing 
 
-- ABC-анализ товаров
+- ABC-анализ товаров 
 
 **2. Сравнение моделей прогнозирования**
 
